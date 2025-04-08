@@ -1,10 +1,10 @@
-# 🛠️ Backend Developer Machine Test - Node.js, Express & MongoDB
+#  Backend Developer Machine Test - Node.js, Express & MongoDB
 
 This backend application is built using **Node.js**, **Express.js**, and **MongoDB**. It supports user authentication, brand and product management, a blocking/unblocking system, and secure token handling using access and refresh tokens.
 
 ---
 
-## 📌 Features
+##  Features
 
 ### ✅ User Authentication & Profile Management
 - Register and login with hashed passwords
@@ -32,19 +32,9 @@ This backend application is built using **Node.js**, **Express.js**, and **Mongo
 
 ---
 
-## 🧑‍💻 Tech Stack
 
-| Tech         | Purpose                         |
-|--------------|----------------------------------|
-| Node.js      | Server runtime                  |
-| Express.js   | Routing & middleware             |
-| MongoDB      | Database                         |
-| Mongoose     | ODM for MongoDB                  |
-| JWT          | Token-based authentication       |
-| bcrypt.js    | Password hashing                 |
-| multer       | File/image upload handling       |
-| cookie-parser| Parse cookies (refresh token)    |
-| dotenv       | Environment variable management  |
+
+
 
 ---
 
